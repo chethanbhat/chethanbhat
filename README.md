@@ -5,7 +5,7 @@
 I am currently working as a Front end developer with Adaptive Automation Technologies Inc. My role is to build React UI components and pages from Figma design.
 
 
-![Chethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chethanbhat&count_private=true&show_icons=true&theme=dracula)
+![Chethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chethanbhat&count_private=true&show_icons=true&theme=dracula&hide=contribs)
 
 <!--
 **chethanbhat/chethanbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
